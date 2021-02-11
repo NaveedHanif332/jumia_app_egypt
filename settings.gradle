@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Jumia Nigeria Black Friday"

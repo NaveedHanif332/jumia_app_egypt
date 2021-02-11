@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/shareapp"
+        android:icon="@drawable/share"
+        android:title="@string/share_app"
+        />
+    <item android:id="@+id/sharepage"
+        android:icon="@drawable/share"
+        android:title="@string/share_current_page"
+        />
+    <item android:id="@+id/rate"
+        android:icon="@drawable/rate"
+        android:title="@string/rate_app"
+        />
+    <item android:id="@+id/browser"
+        android:icon="@drawable/broswer"
+        android:title="@string/open_in_browser"
+        />
+
+    <item android:id="@+id/privacy"
+        android:icon="@drawable/privacy"
+        android:title="@string/privacy_policy"
+        />
+<!--    <item android:id="@+id/bookmark"-->
+<!--        android:icon="@drawable/bookmark"-->
+<!--        android:title="@string/book_mark"-->
+<!--        />-->
+
+</menu>

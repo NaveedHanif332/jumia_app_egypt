@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "34407592273",
+    "project_id": "jumia-nigeria-black-friday",
+    "storage_bucket": "jumia-nigeria-black-friday.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34407592273:android:66d7255dedb57c8f6e6370",
+        "android_client_info": {
+          "package_name": "com.jumia.egyptblackfriday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34407592273-k13iupe0b6s526c5c9lu4b35sp2ps030.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumia.egyptblackfriday",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "34407592273-2a3l539pu59dhr1di57imtkjssq4mnia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlc9wbzOV57Y28JsFCK3LcYbLtD6Y8Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34407592273-2a3l539pu59dhr1di57imtkjssq4mnia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34407592273:android:86155d192d9d46ff6e6370",
+        "android_client_info": {
+          "package_name": "com.jumia.ghanablackfriday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34407592273-3tfd79drfo5qvf0nmeeaq20cpajrisk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumia.ghanablackfriday",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "34407592273-2a3l539pu59dhr1di57imtkjssq4mnia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlc9wbzOV57Y28JsFCK3LcYbLtD6Y8Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34407592273-2a3l539pu59dhr1di57imtkjssq4mnia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34407592273:android:124401521638137c6e6370",
+        "android_client_info": {
+          "package_name": "com.jumia.nigeriablackfriday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34407592273-tjq78uiphejc54lo02044i7pll8rrqkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jumia.nigeriablackfriday",
+            "certificate_hash": "b879b9a283d9ea81362e3335738877c464864379"
+          }
+        },
+        {
+          "client_id": "34407592273-2a3l539pu59dhr1di57imtkjssq4mnia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlc9wbzOV57Y28JsFCK3LcYbLtD6Y8Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34407592273-2a3l539pu59dhr1di57imtkjssq4mnia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

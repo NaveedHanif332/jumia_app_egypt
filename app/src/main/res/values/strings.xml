@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Jumia Egypt  Black Friday</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="previous">previous</string>
+    <string name="home">home</string>
+    <string name="hot">hot</string>
+    <string name="menu">menu</string>
+    <string name="deal">deal</string>
+    <string name="share_app">Share Jumia Black Friday</string>
+    <string name="share_current_page">Share current page </string>
+    <string name="rate_app">Rate Jumia Black Friday</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="book_mark">Save Bookmark </string>
+     <string name="BANNERID">ca-app-pub-5680750269185174/9198526535</string>
+    <string name="APP_ADMOB_ID">ca-app-pub-5680750269185174~1511608203</string>
+</resources>
